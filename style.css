@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+} */
+
+input{
+    border: 1px solid black;
+}
+
+.newdesign{
+    display: none;
+}
+
+.restert{
+    display: none;
+    background-color: red;
+    color: aliceblue;
+}
+a{
+    text-decoration: none;
+}
